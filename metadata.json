@@ -1,0 +1,5 @@
+{
+  "name": "SPLITIT",
+  "description": "A smart bill splitting application that allows groups to track expenses, calculate balances, and settle debts efficiently. Features an AI-powered expense parser.",
+  "requestFramePermissions": []
+}
